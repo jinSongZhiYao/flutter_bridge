@@ -1,11 +1,11 @@
-package com.example.flutter_bridge_example
+package com.eshetang.flutter_bridge_example
 
 import android.os.Bundle
 import android.view.View
 import android.widget.TextView
-import com.example.flutter_bridge.FlutterBridge
-import com.example.flutter_bridge.HandleCallBack
-import com.example.flutter_bridge.HandleCallBackNoReturn
+import com.eshetang.flutter_bridge.FlutterBridge
+import com.eshetang.flutter_bridge.HandleCallBack
+import com.eshetang.flutter_bridge.HandleCallBackNoReturn
 import io.flutter.embedding.android.FlutterActivity
 
 class EnterActivity : FlutterActivity() {

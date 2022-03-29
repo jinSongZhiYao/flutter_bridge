@@ -1,7 +1,6 @@
-package com.example.flutter_bridge
+package com.eshetang.flutter_bridge
 
 import android.widget.Toast
-import com.example.flutter_bridge.FlutterBridge
 
 
 interface HandleCallBack<R> {

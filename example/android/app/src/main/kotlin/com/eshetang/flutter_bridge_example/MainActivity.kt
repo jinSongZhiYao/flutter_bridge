@@ -1,12 +1,11 @@
-package com.example.flutter_bridge_example
+package com.eshetang.flutter_bridge_example
 
 import android.content.Intent
 import android.os.Build
 import android.os.Bundle
 import android.util.Log
-import com.example.flutter_bridge.*
+import com.eshetang.flutter_bridge.*
 import io.flutter.embedding.android.FlutterActivity
-import io.flutter.plugin.common.MethodChannel
 
 
 class MainActivity : FlutterActivity() {

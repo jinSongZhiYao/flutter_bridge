@@ -1,4 +1,4 @@
-package com.example.flutter_bridge
+package com.eshetang.flutter_bridge
 
 import android.util.Log
 

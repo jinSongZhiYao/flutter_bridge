@@ -62,7 +62,7 @@ class _MyAppState extends State<MyApp> {
             MaterialButton(
               onPressed: () async {
                 await FlutterBridge.instance.callNative<Map>("startEnterActivity",
-                    params: {"pageName": "com.example.flutter_bridge_example.EnterActivity"});
+                    params: {"pageName": "com.eshetang.flutter_bridge_example.EnterActivity"});
               },
               child: Text("打开原生页面"),
             ),
